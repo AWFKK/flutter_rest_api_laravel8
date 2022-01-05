@@ -1,16 +1,15 @@
-# flutter_app_backend
+# flutter_app_with_laravel_api
 
-A new Flutter project.
+Flutter application with Laravel 8 Api integration,
+you can find Laravel projet in my repository
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+# Screenshort
+<p>
+<img src="https://user-images.githubusercontent.com/26364962/148231765-d9ffc17f-ad17-4ee8-9ea0-0a1b80e612b3.png" height="600" width="320">
+<img src="https://user-images.githubusercontent.com/26364962/148231768-801b24a6-c54a-4e09-b860-cd25658ff405.png" height="600" width="320">
+<img src="https://user-images.githubusercontent.com/26364962/148232162-f6582386-dbed-43bd-96e1-a2c673d56a40.png" height="600" width="320">
+<img src="https://user-images.githubusercontent.com/26364962/148231773-e9adca9c-7028-45ac-9545-5d1e9b6adf15.png" height="600" width="320">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
